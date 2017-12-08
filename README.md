@@ -1,2 +1,2 @@
-# code1
+# code
 A project to simulate the whole process of reentry.
